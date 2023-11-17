@@ -2,9 +2,9 @@
 ---
 **table of contents:**
 -[Introduction](#item-one)
+-[The Game](#item-two)
 
-
-
+---
 
 <!-- headings -->
 <a id ="item-one"></a>
@@ -25,3 +25,6 @@ Which covers
 
 Language: GDScripts (but can be written in C# and C++)
 
+---
+<a id ="item-two"></a>
+### The Game
