@@ -11,9 +11,7 @@
 ### Introduction
 This is a simple game where your character must move around to avoid enemies as long as possible.
 This was made following the [Your first 2D game](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html#) tutorial found on Godot docs.
-Which covers  |
-
-              V
+Which covers  
 
 1.Creating a complete 2D game with the Godot editor.
 
@@ -24,4 +22,6 @@ Which covers  |
 4.Spawn random enemies.
 
 5.Count the score.
+
+Language: GDScripts (but can be written in C# and C++)
 
