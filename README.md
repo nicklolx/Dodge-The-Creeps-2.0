@@ -32,12 +32,14 @@ Language: GDScripts (but can be written in C# and C++)
 ![GIF from godot docs](https://docs.godotengine.org/en/stable/_images/dodge_preview.gif)
 
 
-movement controls
+Movement controls
 
-move up: w or up arrow
+Move Up: W or Up arrow
 
-move down: s or down arrow
+Move Down: S or Down arrow
 
-move left : a or left arrow
+Move Left : A or Left arrow
 
-move right: d or right arrow
+Move Right: D or Right arrow
+
+Start: Space or Enter
