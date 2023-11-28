@@ -15,13 +15,13 @@ Which covers
 
 1.Creating a complete 2D game with the [Godot editor](https://godotengine.org/download/windows/).
 
-2.Structure a simple game project.
+2.Structuring a simple game project.
 
-3.Move the player character and change its sprite.
+3.How to move the player character and change its sprite.
 
 4.Spawn random enemies.
 
-5.Count the score.
+5. And count the score.
 
 Language: GDScripts (but can be written in C# and C++)
 
