@@ -43,3 +43,4 @@ Move Left : A or Left arrow
 Move Right: D or Right arrow
 
 Start: Space or Enter
+---
