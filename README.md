@@ -28,8 +28,16 @@ Language: GDScripts (but can be written in C# and C++)
 ---
 <a id ="item-two"></a>
 ### The Game
+
+!gif from godot docs](https://docs.godotengine.org/en/stable/_images/dodge_preview.gif)
+
+
 movement controls
+
 move up: w or up arrow
+
 move down: s or down arrow
+
 move left : a or left arrow
+
 move right: d or right arrow
