@@ -28,3 +28,8 @@ Language: GDScripts (but can be written in C# and C++)
 ---
 <a id ="item-two"></a>
 ### The Game
+movement controls
+move up: w or up arrow
+move down: s or down arrow
+move left : a or left arrow
+move right: d or right arrow
