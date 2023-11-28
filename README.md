@@ -29,7 +29,7 @@ Language: GDScripts (but can be written in C# and C++)
 <a id ="item-two"></a>
 ### The Game
 
-![gif from godot docs](https://docs.godotengine.org/en/stable/_images/dodge_preview.gif)
+![GIF from godot docs](https://docs.godotengine.org/en/stable/_images/dodge_preview.gif)
 
 
 movement controls
