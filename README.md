@@ -13,7 +13,7 @@ This is a simple game where your character must move around to avoid enemies as 
 This was made following the [Your first 2D game](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html#) tutorial found on Godot docs.
 Which covers  
 
-1.Creating a complete 2D game with the Godot editor.
+1.Creating a complete 2D game with the [Godot editor](https://godotengine.org/download/windows/).
 
 2.Structure a simple game project.
 
